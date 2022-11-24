@@ -1,3 +1,5 @@
+package patikaDev;
+
 import java.util.Scanner;
 
 
