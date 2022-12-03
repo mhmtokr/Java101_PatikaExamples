@@ -12,7 +12,7 @@ public class Pratik6 {
         int basValue;
         int num;
 
-        System.out.println("Sayi gir: ");
+        System.out.print("Sayi gir: ");
         num = input.nextInt();
         int basSum = 0;
         while (num != 0) {
