@@ -1,4 +1,4 @@
-package patikaDev;
+package patikaDev.Basics;
 
 public class Examples7 {
     public static void main(String[] args) {

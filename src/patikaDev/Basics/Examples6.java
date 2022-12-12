@@ -1,4 +1,4 @@
-package patikaDev;
+package patikaDev.Basics;
 
 import java.util.Scanner;
 
