@@ -1,4 +1,4 @@
-package hackerRank;
+package hackerRank.Loops;
 
 import java.io.*;
 import java.math.*;
